@@ -7,4 +7,5 @@ add_executable(DataStructure_Experiment
         Josephus/Josephus.cpp
         ParkingProblem/ParkingProblem.cpp
         HuffmanTree/HuffmanTree.cpp
-        CountyRoad/CountyRoad.cpp)
+        CountyRoad/CountyRoad.cpp
+        HashMap/HashMap.cpp)
